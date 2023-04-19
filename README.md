@@ -1,4 +1,4 @@
-# Python-code-for-cell-image
+# new canny
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
